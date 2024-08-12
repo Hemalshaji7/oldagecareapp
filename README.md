@@ -1,1 +1,1 @@
-# oldagecareapp
+OldAgeCare is a simple mobile application designed to assist elderly individuals and their caregivers in managing daily activities and healthcare needs. The app aims to improve the quality of life for older adults by providing features such as medication reminders, daily activity tracking, and easy access to emergency contacts.
